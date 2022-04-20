@@ -1,7 +1,5 @@
 <html>
-    <body>
-        <h2>Hello World!</h2>
-        <html>
+
 <style>
  ul  {
   list-style-type: none;
